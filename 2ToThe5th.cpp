@@ -23,9 +23,16 @@ int main(void)
 
 	return 0;
 }
-// 2ToThe5th.cpp : Defines the entry point for the console application.
-//
 
+
+// Most Obfuscated: Which code snippet was the most difficult to understand?
+
+// Inspired by James Tetazoo's work "No Knife", 2ToThe5th is a study in mixed data representation models in 25 lines of code.
+// The artist's mode d'emploi relies upon minimalist data encoding.  Strings are represented as numbers; instructions as strings.
+// The alternating modalities of the data are each deconstructed to form the other mode.
+// Individual instructions contain conventional, almost readable C-language constructs while the overall purpose and intent of the program is
+// obfuscated to the point of both unreadability and unmaintainable.
+// The temporary state of each dataum is overcome throughout by symbolic nihility, and pervades our earliest attempts at analysis.
 
 // E n g i n e e  r    i n g   H e a l t    h
 // * # 7 1 # 9 \n \037 5 , * ~ ' , = . \035 6
